@@ -1,0 +1,22 @@
+Monokai Pro Colorscheme for Gnome Terminal
+======================================
+
+Scripts for setting the Monokai Pro colorscheme in Gnome Terminal.
+
+Forked from [monokai-gnome-terminal](https://github.com/0xcomposure/monokai-gnome-terminal.git)
+
+Installation
+------------
+
+To be able to uninstall, I recommend that you create a new Gnome Terminal profile, using the menu in Gnome Terminal.
+
+You need the `dconf` command (if you run a recent Gnome version). If you are using Ubuntu you can install it by running
+
+    $ sudo apt-get install dconf-cli
+
+Then clone the repository and you can run the installation script:
+
+    $ git clone https://github.com/0xComposure/monokai-gnome-terminal
+    $ cd monokai-gnome-terminal
+    $ ./install.sh
+And just follow the instructions.
