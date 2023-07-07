@@ -17,6 +17,6 @@ You need the `dconf` command (if you run a recent Gnome version). If you are usi
 Then clone the repository and you can run the installation script:
 
     $ git clone https://github.com/anhnn2010/gnome-terminal-monokai-pro.git
-    $ cd monokai-gnome-terminal
+    $ cd gnome-terminal-monokai-pro
     $ ./install.sh
 And just follow the instructions.
